@@ -1,16 +1,20 @@
-## Hi there 👋
+### hi, I'm Prabhat 👋
 
-<!--
-**prabhatps/prabhatps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SDE at **Amazon Web Services** — I work on the Amazon Connect Flows execution engine, powering real-time contact journeys for Fortune 500 companies.
 
-Here are some ideas to get you started:
+**Currently**
+Building on AWS Connect in Seattle · Exploring AI-powered developer tooling · Making films on weekends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**By the numbers**
+- 2M+ users on platforms I own
+- 35% latency reduction shipped
+- 90+ engineers mentored
+- 7,000+ live audience at GeeksforGeeks webinar
+
+**Stack**
+Java · Python · TypeScript · AWS · Kubernetes · Distributed Systems · TensorFlow
+
+**Find me**
+prabhatsuman.com · linkedin.com/in/prabhatsuman · youtube.com/@baatcheetfilm
+
+📍 Seattle · Engineer by day, filmmaker on weekends.
