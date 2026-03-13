@@ -15,6 +15,6 @@ Building on AWS Connect in Seattle · Exploring AI-powered developer tooling · 
 Java · Python · TypeScript · AWS · Kubernetes · Distributed Systems · TensorFlow
 
 **Find me**
-prabhatsuman.com · linkedin.com/in/prabhatsuman · youtube.com/@baatcheetfilm
+[prabhatsuman.com](https://prabhatsuman.com) · [LinkedIn](https://linkedin.com/in/prabhatsuman) · [YouTube](https://youtube.com/@baatcheetfilm)
 
 📍 Seattle · Engineer by day, filmmaker on weekends.
